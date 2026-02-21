@@ -1,0 +1,6 @@
+@SaaS_StokAPI_HostAddress = http://localhost:5250
+
+GET {{SaaS_StokAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
